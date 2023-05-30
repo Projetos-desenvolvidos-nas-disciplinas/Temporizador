@@ -1,4 +1,4 @@
-# Temporizador
+# Temporizador de 5s e 20s
 
 Neste bloco teremos dois temporizadores, um de 5 segundos e o outro de 20 segundos, que serão acionados pela lógica do controle (RST), quando o RST estiver em nível lógico alto, irá acionar o temporizador de 5 segundos, quando estiver em nível lógico baixo, irá acionar o temporizador de 20 segundos.
 
